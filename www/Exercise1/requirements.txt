@@ -1,0 +1,7 @@
+numpy==1.17.0
+matplotlib
+cvxopt==1.2.0
+cython==0.29.24
+scikit-learn==0.22
+ad3==2.2.1
+setuptools==57.5.0

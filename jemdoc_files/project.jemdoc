@@ -1,0 +1,81 @@
+# jemdoc: menu{MENU}{project.html},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css},addcss{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css},addjs{http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min},addjs{https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min}
+
+== Final Project Information
+
+=== Overview 
+The final project will be done in teams of (up to) 3 people.  You will read and present a paper related to representation learning topics discussed in this course. Each group will make a 15-min presentation and submit a short written report based on your selected reading. Groups already presented for weekly paper discussions do not need to present. Their grade will be based their reports.   
+
+
+=== Important Milestones
+
+~~~
+{}{table}{milestones}
+*Deadline*   | *Task* ||
+April 1 | Submit topic selection  ||
+April 11 | Final presentation   ||
+April 25 | Submit final report  
+~~~
+
+=== Topics
+
+Your presenting topic should be related to one of the five main topics we covered in this class. Below is a list of recommended papers.  
+/If you would like to suggest a paper not in this list, please check with the instructor first./   You need to **submit the paper choice to the TAs by Friday, April 1st**.
+
+~~~
+{}
+*Structured prediction*
+
+- Zheng, Shuai, et al. "Conditional random fields as recurrent neural networks." /Proceedings of the IEEE international conference on computer vision/. (2015).
+
+- Arnab, Anurag, et al. "Conditional random fields meet deep neural networks for semantic segmentation: Combining probabilistic graphical models with deep learning for structured prediction." /IEEE Signal Processing Magazine/ 35.1, (2018) 
+
+*Latent variable model* 
+
+- Louizos, Christos, et al. "Causal effect inference with deep latent-variable models." /Advances in neural information processing systems/ 30 (2017).
+
+- Schölkopf, Bernhard, et al. "Toward causal representation learning." /Proceedings of the IEEE/ 109.5 (2021): 612-634.
+
+*Generative adversarial learning*
+
+- Chen, Xi, et al. "Infogan: Interpretable representation learning by information maximizing generative adversarial nets." /Advances in neural information processing systems/ 29 (2016)
+
+- Gulrajani, Ishaan, et al. "Improved training of wasserstein gans." /Advances in neural information processing systems/ 30 (2017).
+
+*Deep metric learning*
+
+- Wang, Xun, et al. "Multi-similarity loss with general pair weighting for deep metric learning." /Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition/. 2019.
+
+- Tschannen, Michael, et al. "On mutual information maximization for representation learning." /arXiv preprint arXiv:1907.13625/ (2019).
+
+*Geometric deep learning*
+
+- Hamilton, William L., Rex Ying, and Jure Leskovec. "Representation learning on graphs: Methods and applications." /arXiv preprint arXiv:1709.05584/ (2017).
+
+- Wang, Yue et. al. Dynamic Graph CNN for Learning on Point Clouds. ACM Trans. Graph. 38, 5, Article 146 (October 2019)
+
+- Battaglia, Peter W., et al. "Relational inductive biases, deep learning, and graph networks." /arXiv preprint arXiv:1806.01261/ (2018). 
+~~~
+
+=== Presentation
+
+Presentations should be 15 minutes long. Make sure all group members participate in it. (If you had done some extra experimental analysis of the work and have interesting findings, you can also demo it for extra credit.)
+
+=== Report
+
+Each group should submit a 3-4 page (single-column) essay reporting what you have learned from the reading. Your report  should be in the form of a paper review, structured in three sections:
+
+~~~
+{}
+*Summary*. Summarize the paper /*in your own words*/. Make sure to include the research problem, the contributions, the approach and the findings or conclusions of the paper. (This part should take no more than 60% of the entire essay.)
+
+*Evaluation*. Evaluate the work by pointing out its strength and weakness.  What representation learning priors does it rely on? How does it relate to other methods we learned before? Also consider works that came after the selected paper. Have some of the weakness being addressed in later works? Has its claims been challenged or even disproved by someone?  
+
+*Synthesis*. Write about your inspiration from this work.  you can talk about potential novel application of the work, or open problems worth addressing in the future. 
+~~~
+
+Please see Section 4 in [http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf this article] for a more detailed description of what to include in each section. Please also use *proper citations* and include the *references* in the report.
+ 
+
+
+
+ 
